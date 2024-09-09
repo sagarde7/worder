@@ -1,0 +1,26 @@
+.box{
+    
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+}
+textarea{
+    margin-top: 0.5rem;
+    height: 10rem;
+    width: 50rem;
+    border:2px solid red;
+   
+}
+button{
+    
+    margin: 0.5rem;
+    background-color: red;
+    color: white;
+    height: 2rem;
+    width: 10rem;
+    border: 0.1rem solid black;
+    border-radius: 0.5rem;
+}
+button:hover{
+    cursor: pointer;
+}
